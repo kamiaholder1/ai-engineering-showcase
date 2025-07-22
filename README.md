@@ -25,3 +25,21 @@ cd ai-engineering-showcase
 python -m venv env
 env\Scripts\activate  # On Windows
 
+
+
+📍 Roadmap
+ Add deep learning functionality with TensorFlow
+
+ Connect to live datasets
+
+ Improve UI/UX for beginner users
+
+ Include tutorials or guided walkthroughs
+
+ Add performance benchmarks
+
+📬 Contact
+Made with ❤️ by Kamia Holder
+📧 Email: kamiaholder2021@gmail.com
+🌐 GitHub: @kamiaholder
+📍 Location: Trinidad & Tobago
